@@ -3,9 +3,9 @@ library(mongolite)
 # MongDB login info
 options(
   mongodb = list(
-    host = "ds127211-a0.mlab.com:27211",
-    username = "grandcanals",
-    password = "superman1"
+    host = "xxxxx",
+    username = "xxxxx",
+    password = "xxxxx"
   )
 )
 databaseName <- "grandcanals"
